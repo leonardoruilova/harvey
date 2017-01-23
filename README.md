@@ -3,7 +3,7 @@ Harvey: Un Sistema Operativo Distribuido
 =====
 [![Estado de desarrollo](https://travis-ci.org/Harvey-OS/harvey.svg?branch=master)](https://travis-ci.org/Harvey-OS/harvey)
 [![Coverity Badge](https://scan.coverity.com/projects/5328/badge.svg)](https://scan.coverity.com/projects/5328)
-[![Licence](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/Harvey-OS/harvey/blob/master/LICENSE.gpl)
+[![License](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/Harvey-OS/harvey/blob/master/LICENSE.gpl)
 
 Bienvenido al proyecto Harvey, es un gusto que ud. este interesado en nuestro software.
 
