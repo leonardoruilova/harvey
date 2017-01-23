@@ -21,7 +21,7 @@ Harvey es un Sistema Operativo distribuido, tiene vinculos cercanos con el Siste
   podra saber donde obtener ayuda, entre otros asuntos.
 - Tambien es posible aprender mas sobre el Sistema Operativo Harvey en nuestra 
   [wiki](https://github.com/Harvey-OS/harvey/wiki) y en nuestra 
-  [apex's wiki](https://github.com/Harvey-OS/apex/wiki).
+  [wiki de Apex](https://github.com/Harvey-OS/apex/wiki).
 - En caso que la informacion que necesita no se encuentre en la wiki, consultenos en nuestra 
   [Lista de correos](https://groups.google.com/forum/#!forum/harvey) o mediante 
   [Slack](https://harvey-slack.herokuapp.com/), plataforma donde ocurre la mayor parte de las conversaciones sobre el desarrollo.
