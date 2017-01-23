@@ -1,40 +1,35 @@
 ![Harvey](https://harvey-os.org/img/harvey-os-logo.png)
-Harvey: A distributed operating system
+Harvey: Un Sistema Operativo Distribuido
 =====
-[![Build Status](https://travis-ci.org/Harvey-OS/harvey.svg?branch=master)](https://travis-ci.org/Harvey-OS/harvey)
+[![Estado de desarrollo](https://travis-ci.org/Harvey-OS/harvey.svg?branch=master)](https://travis-ci.org/Harvey-OS/harvey)
 [![Coverity Badge](https://scan.coverity.com/projects/5328/badge.svg)](https://scan.coverity.com/projects/5328)
-[![License](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/Harvey-OS/harvey/blob/master/LICENSE.gpl)
+[![Licencia](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/Harvey-OS/harvey/blob/master/LICENSE.gpl)
 
-Welcome to Harvey, we are delighted that you are interested in the
-project.
+Bienvenido al proyecto Harvey, es un gusto que ud. este interesado en nuestro software.
 
-## What is harvey?
+## En que consiste el sistema operativo Harvey?
 
-Harvey is a distributed operating system. It is direct descendant
-of [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) which was originally
-developed by the same group at Bell Labs that invented Unix and C.
+Harvey es un Sistema Operativo distribuido, tiene vinculos cercanos con el Sistema Operativo [Plan 9 de Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs). Los programadores de Bell Labs son los mismos que desarrollaron Unix y el lenguaje de programacion C.
 
-- Take a look at the
+- Por favor, vea la seccion 
   [Getting Started](https://github.com/Harvey-OS/harvey/wiki/Getting-Started)
-  guide to learn how to get Harvey and how to play with it.
-- You enjoyed playing with Harvey and you want to help out? Great!
-  Take a look at our
+  , que es una guia para obtener el Sistema Operativo Harvey, asi como para entretenerse con su codigo.
+- Si ud. ha disfrutado con nuestro codigo fuente y desea ayudar a otros remitase a nuestra 
   [Contribution Guide](https://github.com/Harvey-OS/harvey/blob/master/CONTRIBUTING.md).
-  The contribution guide covers a wide variety of topics including the
-  Harvey coding style,
+  En la 'contribution guide' podra saber cual es el estilo de programacion propio de nuestro proyecto, conocera nuestro 
   [Code of Conduct](https://github.com/Harvey-OS/harvey/wiki/Code-of-Conduct),
-  where to get help and so on.
-- We also cover a wide variety of topics on our
-  [wiki](https://github.com/Harvey-OS/harvey/wiki) and
+  podra saber donde obtener ayuda, entre otros asuntos.
+- Tambien es posible aprender mas sobre el Sistema Operativo Harvey en nuestra 
+  [wiki](https://github.com/Harvey-OS/harvey/wiki) y en nuestra 
   [apex's wiki](https://github.com/Harvey-OS/apex/wiki).
-- If the information you are looking for is not on the wiki, ask the
-  [Mailing list](https://groups.google.com/forum/#!forum/harvey) or 
-  [Slack](https://harvey-slack.herokuapp.com/) for
-  help. It is where most of the development conversation happens.
-- [Man Pages](https://sevki.io/harvey/sys/man/1/0intro) are where you
-  can read man pages from the head of the repository.
-- Harvey also has a [blog](https://blog.harvey-os.org) and a
-  [twitter account](https://twitter.com/harvey_os) where we share news
-  and things we are excited about.
+- En caso que la informacion que necesita no se encuentre en la wiki, consultenos en nuestra 
+  [Lista de correos](https://groups.google.com/forum/#!forum/harvey) o mediante 
+  [Slack](https://harvey-slack.herokuapp.com/), plataforma donde ocurre la mayor parte de las conversaciones sobre el desarrollo.
+- [Paginas Man](https://sevki.io/harvey/sys/man/1/0intro), documentos de texto en la cabecera de nuestro repositorio.
+- [Blog](https://blog.harvey-os.org) oficial de nuestro proyecto y 
+  [cuenta Twitter](https://twitter.com/harvey_os), plataformas donde nosotros compartimos noticias y temas de conversacion acerca de lo que nos apasiona.
+
+Traduccion liberada a los comunes, licencia CC-BY-NC, realizada por Virgilio Leonardo Ruilova
 
 [License](https://github.com/Harvey-OS/harvey/blob/master/LICENSE.gpl)
+
