@@ -31,5 +31,5 @@ Harvey es un Sistema Operativo distribuido, tiene vinculos cercanos con el Siste
 
 Traduccion liberada a los comunes, licencia CC-BY-NC, realizada por Virgilio Leonardo Ruilova
 
-[License](https://github.com/Harvey-OS/harvey/blob/master/LICENSE.gpl)
+La licencia del texto original esta en ingles en el siguiente enlace: [License](https://github.com/Harvey-OS/harvey/blob/master/LICENSE.gpl)
 
