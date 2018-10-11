@@ -1,5 +1,5 @@
 ![Harvey](https://harvey-os.org/img/harvey-os-logo.png)
-Harvey: Un Sistema Operativo Distribuido
+Un Sistema Operativo Distribuido
 =====
 [![Estado de desarrollo](https://travis-ci.org/Harvey-OS/harvey.svg?branch=master)](https://travis-ci.org/Harvey-OS/harvey)
 [![Insignia de cobertura](https://scan.coverity.com/projects/5328/badge.svg)](https://scan.coverity.com/projects/5328)
