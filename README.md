@@ -29,7 +29,7 @@ Harvey es un Sistema Operativo distribuido, tiene vínculos cercanos con el Sist
 - [Blog](https://blog.harvey-os.org) oficial de nuestro proyecto y 
   [cuenta Twitter](https://twitter.com/harvey_os), plataformas donde nosotros compartimos noticias y temas de conversación acerca de lo que nos apasiona.
 
-Traducción liberada a los comunes, licencia CC-BY-NC, realizada por Virgilio Leonardo Ruilova
+Traducción liberada a los comunes, licencia CC-BY-NC-SA, realizada por Virgilio Leonardo Ruilova
 
 La licencia GPL 2, bajo la cual se rige el proyecto Harvey: [Licencia](https://github.com/Harvey-OS/harvey/blob/master/LICENSE.gpl)
 
